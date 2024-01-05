@@ -8,7 +8,6 @@ I have been coding for over 4 years. I started with Python, but later added Java
 
 *   🌍  I'm based in Washington D.C.
 *   🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/akouirouk/)
-*   ✉️  You can contact me at [akouirouk@gmail.com](mailto:akouirouk@gmail.com)
 *   🧠  I'm learning VueJS and NodeJS
 *   🤝  I'm open to collaborating on any Python/JavaScript projects
 *   ⚡  I dream of racing motorcycles when I'm not working

@@ -1,15 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandros Kouiroukidis
 ===============================================================================================================================================
 
-Software Developer
+Data Engineer
 ------------------
 
-I have been coding for over 4 years. I started with Python, but later added JavaScript to my dev tool kit. I previously worked as a Data Analyst, but ever since working on my own personal projects, I have grown a passion for software development. That has led to me do Freelance work as Software Engineer, where I continue to build solutions for my clients through code.
+I have been coding for over 4 years. The first programming language that I was introduced to was C, as it is for most new devs, but shortly after I started my Python journey and haven't looked back since. I have used Python for my professional work as a Data Analyst (DA) to gain actionable insights from data to drive business decisions. My main mission as a DA was to tell a story through data to convey otherwise complex data to an audience.
+
+Data & Analytics introduced me to various skills within the field, such as building data pipelines, data warehousing, data scraping, and SQL/NoSQL databases. This is where my Python skills improved the most, giving me the ability to learn new technologies within the field quickly.
+
+I pivoted into a Data Engineering role after my time as a DA, putting my AWS certification to use as I develop data pipelines for my freelance clients in the cloud.
 
 *   🌍  I'm based in Washington D.C.
 *   🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/akouirouk/)
-*   🧠  I'm learning VueJS and NodeJS
-*   🤝  I'm open to collaborating on any Python/JavaScript projects
+*   🧠  I'm learning Kafka
+*   🤝  I'm open to collaborating on any Data Engineering projects
 *   ⚡  I dream of racing motorcycles when I'm not working
 
 ### Skills 

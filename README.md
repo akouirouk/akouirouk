@@ -12,7 +12,7 @@ I pivoted into a Data Engineering role after my time as a DA, putting my AWS cer
 
 *   🌍  I'm based in Washington D.C.
 *   🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/akouirouk/)
-*   🧠  I'm learning Rust
+*   🧠  I'm learning Snowflake
 *   🤝  I'm open to collaborating on any Data Engineering projects
 *   ⚡  I dream of racing motorcycles when I'm not working
 

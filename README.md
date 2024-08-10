@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 ------------------
 
-I have been coding for over 4 years. The first programming language that I was introduced to was C, as it is for most new devs, but shortly after I started my Python journey and haven't looked back since. I have used Python for my professional work as a Data Analyst (DA) to gain actionable insights from data to drive business decisions. My main mission as a DA was to tell a story through data to convey otherwise complex data to an audience.
+The first programming language that I was introduced to was C, as it is for most new devs, but not so long after that, I started my Python journey and haven't looked back since. I have used Python for my professional work as a Data Analyst (DA) to gain actionable insights from data to drive business decisions. My main mission as a DA was to tell a story through data to convey otherwise complex data to an audience.
 
-Data & Analytics introduced me to various skills within the field, such as building data pipelines, data warehousing, data scraping, and SQL/NoSQL databases. This is where my Python skills improved the most, giving me the ability to learn new technologies within the field quickly.
+Data Analytics introduced me to various skills within the field, such as building data pipelines, data warehousing, data scraping, and SQL/NoSQL databases. This is where my Python skills improved the most, giving me the ability to learn new technologies within the field quickly. Since then, I have added Rust to my programming tool belt, a blazing fast, memory-efficient language that I have been using within my ELT/ETL data pipelines.
 
 I pivoted into a Data Engineering role after my time as a DA, putting my AWS certification to use as I develop data pipelines for my freelance clients in the cloud.
 

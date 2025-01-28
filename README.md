@@ -4,15 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 ------------------
 
-The first programming language that I was introduced to was C, as it is for most new devs, but not so long after that, I started my Python journey and haven't looked back since. I have used Python for my professional work as a Data Analyst (DA) to gain actionable insights from data to drive business decisions. My main mission as a DA was to tell a story through data to convey otherwise complex data to an audience.
-
-Data Analytics introduced me to various skills within the field, such as building data pipelines, data warehousing, data scraping, and SQL/NoSQL databases. This is where my Python skills improved the most, giving me the ability to learn new technologies within the field quickly. Since then, I have added Rust to my programming tool belt, a blazing fast, memory-efficient language that I have been using within my ELT/ETL data pipelines.
-
-I pivoted into a Data Engineering role after my time as a DA, putting my AWS certification to use as I develop data pipelines for my freelance clients in the cloud.
+Data Engineer developing data pipelines with a background in Python development. Specializing in ETL development, web scraping, and AWS.
 
 *   🌍  I'm based in Washington D.C.
 *   🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/akouirouk/)
-*   🧠  I'm learning Snowflake
+*   🧠  I'm learning Prefect
 *   🤝  I'm open to collaborating on any Data Engineering projects
 *   ⚡  I dream of racing motorcycles when I'm not working
 

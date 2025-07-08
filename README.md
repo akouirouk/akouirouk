@@ -8,7 +8,7 @@ Data Engineer developing data pipelines with a background in Python development.
 
 *   🌍  I'm based in Washington D.C.
 *   🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/akouirouk/)
-*   🧠  I'm learning Prefect
+*   🧠  I'm learning Vector Databases
 *   🤝  I'm open to collaborating on any Data Engineering projects
 *   ⚡  I dream of racing motorcycles when I'm not working
 
